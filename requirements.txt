@@ -7,3 +7,6 @@ numpy==1.26.4
 scikit-learn==1.6.1
 feature-engine==1.8.3
 scipy==1.13.1
+geopy==2.4.1
+folium==0.20.0
+streamlit_folium==0.25.1
